@@ -1,3 +1,5 @@
+//npx playwright test --ui
+
 // @ts-check
 const { test, expect } = require('@playwright/test');
 

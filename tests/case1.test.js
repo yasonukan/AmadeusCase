@@ -1,3 +1,5 @@
+//npm test case1.test.js  
+
 // Import axios module for making HTTP requests
 const axios = require('axios');
 
